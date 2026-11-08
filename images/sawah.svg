@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi terasering sawah, matahari pagi, dan seorang petani</title>
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#2b261f" stroke-width="0.8" opacity="0.13" />
+    </pattern>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4eddd" />
+      <stop offset="1" stop-color="#e6d9c0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="#e9dfc9" />
+  <rect x="34" y="34" width="1132" height="732" fill="none" stroke="#2b261f" stroke-width="2" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#sky)" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#hatch)" opacity="0.5" />
+
+  <circle cx="870" cy="190" r="72" fill="#c9a35e" opacity="0.4" />
+  <circle cx="870" cy="190" r="72" fill="none" stroke="#7c2f27" stroke-width="1.1" opacity="0.5" />
+
+  <path d="M46 430 Q220 330 410 392 T760 360 T1154 420 V754 H46 Z" fill="#d6c7a8" />
+  <path d="M46 466 Q250 390 460 438 T820 410 T1154 456 V754 H46 Z" fill="#cbb995" />
+
+  <g fill="none" stroke="#2b261f" stroke-width="1.4" opacity="0.75">
+    <path d="M46 510 Q240 452 440 492 T820 468 T1154 508" />
+    <path d="M46 548 Q260 492 470 530 T840 508 T1154 546" />
+    <path d="M46 586 Q280 534 500 570 T860 548 T1154 584" />
+    <path d="M46 626 Q300 576 530 610 T880 590 T1154 624" />
+    <path d="M46 668 Q320 620 560 652 T900 632 T1154 666" />
+  </g>
+
+  <g fill="#7c2f27" opacity="0.28">
+    <path d="M46 510 Q240 452 440 492 T820 468 T1154 508 V530 Q820 492 440 516 T46 534 Z" />
+    <path d="M46 586 Q280 534 500 570 T860 548 T1154 584 V606 Q860 570 500 592 T46 610 Z" />
+    <path d="M46 668 Q320 620 560 652 T900 632 T1154 666 V688 Q900 654 560 674 T46 692 Z" />
+  </g>
+
+  <g stroke="#2b261f" stroke-width="1.3" opacity="0.55">
+    <path d="M120 690 V610 M180 678 V598 M240 668 V590 M300 660 V582 M360 652 V576 M420 646 V570 M480 640 V566 M540 636 V562 M600 632 V560 M660 630 V558 M720 628 V558 M780 628 V558 M840 630 V560 M900 632 V562 M960 636 V566 M1020 642 V572 M1080 648 V578" />
+  </g>
+
+  <g>
+    <path d="M760 648 Q750 596 766 548" fill="none" stroke="#2b261f" stroke-width="6" stroke-linecap="round" />
+    <path d="M766 548 Q742 532 724 538" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M766 548 Q788 528 810 534" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M766 548 Q764 516 780 500" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M744 586 Q766 574 790 588" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M734 616 Q760 604 792 620" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M724 540 Q716 548 718 560" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+    <path d="M810 536 Q818 544 816 556" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <g>
+    <path d="M470 642 Q462 602 478 574" fill="none" stroke="#2b261f" stroke-width="5" stroke-linecap="round" />
+    <path d="M478 574 Q456 560 440 566" fill="none" stroke="#2b261f" stroke-width="3.5" stroke-linecap="round" />
+    <path d="M478 574 Q496 556 514 562" fill="none" stroke="#2b261f" stroke-width="3.5" stroke-linecap="round" />
+    <path d="M478 574 Q476 550 490 538" fill="none" stroke="#2b261f" stroke-width="3.5" stroke-linecap="round" />
+    <path d="M458 604 Q478 594 498 606" fill="none" stroke="#2b261f" stroke-width="3.5" stroke-linecap="round" />
+    <path d="M450 626 Q472 616 500 628" fill="none" stroke="#2b261f" stroke-width="3.5" stroke-linecap="round" />
+    <path d="M468 612 L478 646" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M496 612 L486 646" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <g stroke="#2b261f" stroke-width="1.5" fill="none" opacity="0.65">
+    <path d="M280 150 Q290 140 300 150 Q310 140 320 150" />
+    <path d="M560 120 Q570 110 580 120 Q590 110 600 120" />
+    <path d="M640 170 Q650 160 660 170 Q670 160 680 170" />
+  </g>
+
+  <text x="600" y="728" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6" fill="#7a7162">LEMBAR WARTA · ARSIP VISUAL</text>
+</svg>

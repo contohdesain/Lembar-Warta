@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi lentera gantung di atas laut dengan perahu dan bulan</title>
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#f3ecdc" stroke-width="0.7" opacity="0.08" />
+    </pattern>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#252019" />
+      <stop offset="0.6" stop-color="#332c23" />
+      <stop offset="1" stop-color="#4a4033" />
+    </linearGradient>
+    <radialGradient id="lamp" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f6d98f" stop-opacity="0.95" />
+      <stop offset="0.5" stop-color="#e3b85d" stop-opacity="0.35" />
+      <stop offset="1" stop-color="#e3b85d" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="#1b1712" />
+  <rect x="34" y="34" width="1132" height="732" fill="none" stroke="#d9c9a8" stroke-width="2" opacity="0.65" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#night)" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#hatch)" opacity="0.8" />
+
+  <circle cx="930" cy="180" r="64" fill="#f3ecdc" opacity="0.9" />
+  <circle cx="906" cy="164" r="64" fill="#332c23" opacity="0.85" />
+
+  <g fill="#f3ecdc" opacity="0.75">
+    <circle cx="200" cy="150" r="2" />
+    <circle cx="300" cy="110" r="1.5" />
+    <circle cx="420" cy="180" r="2.5" />
+    <circle cx="520" cy="120" r="1.5" />
+    <circle cx="660" cy="170" r="2" />
+    <circle cx="760" cy="100" r="2" />
+    <circle cx="1050" cy="260" r="1.5" />
+    <circle cx="160" cy="290" r="2" />
+    <circle cx="110" cy="220" r="1.5" />
+  </g>
+
+  <path d="M46 560 Q300 536 600 552 T1154 544 V754 H46 Z" fill="#2f2921" />
+  <g stroke="#d9c9a8" stroke-width="1.2" fill="none" opacity="0.35">
+    <path d="M46 600 Q300 580 600 592 T1154 584" />
+    <path d="M46 634 Q300 614 600 626 T1154 618" />
+    <path d="M46 668 Q300 648 600 660 T1154 652" />
+    <path d="M46 702 Q300 682 600 694 T1154 686" />
+  </g>
+
+  <g>
+    <path d="M240 80 V150" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M212 150 H268 L256 220 H224 Z" fill="#a67c3d" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M224 220 H256" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M232 172 H248 M228 194 H252" stroke="#2b261f" stroke-width="1.2" opacity="0.5" />
+    <circle cx="240" cy="186" r="70" fill="url(#lamp)" />
+  </g>
+
+  <g>
+    <path d="M540 70 V140" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M512 140 H568 L556 210 H524 Z" fill="#a67c3d" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M524 210 H556" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M532 162 H548 M528 184 H552" stroke="#2b261f" stroke-width="1.2" opacity="0.5" />
+    <circle cx="540" cy="176" r="70" fill="url(#lamp)" />
+  </g>
+
+  <g>
+    <path d="M850 100 V170" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M822 170 H878 L866 240 H834 Z" fill="#a67c3d" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M834 240 H866" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M842 192 H858 M838 214 H862" stroke="#2b261f" stroke-width="1.2" opacity="0.5" />
+    <circle cx="850" cy="206" r="70" fill="url(#lamp)" />
+  </g>
+
+  <g>
+    <path d="M720 556 Q760 580 820 556 L806 592 H734 Z" fill="#d9c9a8" stroke="#2b261f" stroke-width="1.5" />
+    <path d="M770 556 V480" stroke="#d9c9a8" stroke-width="2" />
+    <path d="M770 480 L820 500 L770 520 Z" fill="#7c2f27" stroke="#d9c9a8" stroke-width="1.2" />
+    <path d="M770 556 V590" stroke="#d9c9a8" stroke-width="1" opacity="0.5" />
+  </g>
+
+  <g stroke="#d9c9a8" stroke-width="1.2" fill="none" opacity="0.45">
+    <path d="M120 470 Q140 458 160 470 Q180 458 200 470" />
+    <path d="M1040 500 Q1060 488 1080 500 Q1100 488 1120 500" />
+  </g>
+
+  <g fill="#a67c3d" opacity="0.7">
+    <circle cx="300" cy="610" r="3" />
+    <circle cx="400" cy="640" r="2.5" />
+    <circle cx="900" cy="620" r="3" />
+    <circle cx="1000" cy="650" r="2" />
+  </g>
+
+  <text x="600" y="728" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6" fill="#d9c9a8" opacity="0.7">LEMBAR WARTA · ARSIP VISUAL</text>
+</svg>

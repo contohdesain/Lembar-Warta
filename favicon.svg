@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Lembar Warta">
+  <rect width="64" height="64" rx="12" fill="#f7f2e6" />
+  <circle cx="32" cy="32" r="26" fill="none" stroke="#7c2f27" stroke-width="2" />
+  <circle cx="32" cy="32" r="21.5" fill="none" stroke="#7c2f27" stroke-width="0.8" opacity="0.65" />
+  <path d="M22 44V31.5C22 25.7 26.5 21 32 21C37.5 21 42 25.7 42 31.5V44" fill="none" stroke="#7c2f27" stroke-width="2" stroke-linecap="round" />
+  <path d="M24 37.2C27 35.8 29.7 36.1 32 38.1C34.3 36.1 37 35.8 40 37.2V44.2C37 43 34.3 43.3 32 45.2C29.7 43.3 27 43 24 44.2V37.2Z" fill="none" stroke="#7c2f27" stroke-width="1.7" stroke-linejoin="round" />
+  <path d="M32 38.7V44.8" stroke="#7c2f27" stroke-width="1.2" />
+  <path d="M32 26.5L33 29.3L35.8 30.3L33 31.3L32 34.1L31 31.3L28.2 30.3L31 29.3L32 26.5Z" fill="#7c2f27" />
+</svg>
