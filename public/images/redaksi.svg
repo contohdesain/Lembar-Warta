@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi meja redaksi dengan mesin tik, kertas, cangkir kopi, dan pena</title>
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#2b261f" stroke-width="0.8" opacity="0.13" />
+    </pattern>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4eddd" />
+      <stop offset="1" stop-color="#e6d9c0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="#e9dfc9" />
+  <rect x="34" y="34" width="1132" height="732" fill="none" stroke="#2b261f" stroke-width="2" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#wall)" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#hatch)" opacity="0.5" />
+
+  <g>
+    <rect x="790" y="110" width="260" height="300" fill="#f8f1e2" stroke="#2b261f" stroke-width="3" />
+    <path d="M920 110 V410 M790 260 H1050" stroke="#2b261f" stroke-width="2" />
+    <path d="M790 110 L830 70 H1090 L1050 110" fill="#efe6d4" stroke="#2b261f" stroke-width="1.5" />
+    <path d="M830 70 L860 110 M930 70 L960 110 M1030 70 L1060 110" stroke="#2b261f" stroke-width="1" opacity="0.4" />
+    <path d="M790 110 L830 70 M920 110 L960 70 M1050 110 L1090 70" stroke="#2b261f" stroke-width="1.2" opacity="0.5" />
+    <path d="M812 146 Q840 126 868 146 Q896 126 924 146 M966 146 Q994 126 1022 146 M812 310 Q840 290 868 310 Q896 290 924 310" fill="none" stroke="#7a7162" stroke-width="1.5" opacity="0.35" />
+    <circle cx="900" cy="200" r="38" fill="#c9a35e" opacity="0.3" />
+    <path d="M900 162 V238 M862 200 H938" stroke="#a67c3d" stroke-width="1" opacity="0.45" />
+  </g>
+
+  <rect x="100" y="560" width="1000" height="26" fill="#2b261f" />
+  <rect x="140" y="586" width="22" height="130" fill="#2b261f" />
+  <rect x="1038" y="586" width="22" height="130" fill="#2b261f" />
+  <rect x="120" y="540" width="960" height="20" fill="#a67c3d" opacity="0.55" />
+
+  <g>
+    <path d="M330 540 L370 410 H690 L730 540 Z" fill="#7c2f27" stroke="#2b261f" stroke-width="2.5" />
+    <path d="M370 410 L390 370 H670 L690 410 Z" fill="#e4d6bb" stroke="#2b261f" stroke-width="2.5" />
+    <rect x="420" y="350" width="220" height="24" fill="#2b261f" />
+    <path d="M430 350 V300 M630 350 V300" stroke="#2b261f" stroke-width="2" />
+    <path d="M420 300 H640" stroke="#2b261f" stroke-width="2" />
+    <rect x="380" y="450" width="300" height="60" fill="#f8f1e2" stroke="#2b261f" stroke-width="1.5" />
+    <path d="M400 468 H660 M400 484 H620 M400 500 H580" stroke="#7a7162" stroke-width="1.2" opacity="0.55" />
+    <g fill="#f8f1e2" stroke="#2b261f" stroke-width="1.5">
+      <rect x="390" y="430" width="26" height="14" rx="2" />
+      <rect x="430" y="430" width="26" height="14" rx="2" />
+      <rect x="470" y="430" width="26" height="14" rx="2" />
+      <rect x="510" y="430" width="26" height="14" rx="2" />
+      <rect x="550" y="430" width="26" height="14" rx="2" />
+      <rect x="590" y="430" width="26" height="14" rx="2" />
+      <rect x="630" y="430" width="26" height="14" rx="2" />
+    </g>
+    <path d="M390 540 V560 H670 V540" fill="#5d211b" stroke="#2b261f" stroke-width="2" />
+    <path d="M420 500 L440 540 M640 500 L620 540" stroke="#2b261f" stroke-width="1.2" opacity="0.4" />
+  </g>
+
+  <g>
+    <path d="M780 520 Q760 490 780 468 Q800 450 826 464 L842 500 L820 540 Z" fill="#f8f1e2" stroke="#2b261f" stroke-width="2" />
+    <path d="M842 500 Q870 490 880 506 Q886 520 866 530 L850 520" fill="none" stroke="#2b261f" stroke-width="2" />
+    <path d="M780 468 Q790 456 806 456" fill="none" stroke="#2b261f" stroke-width="1.5" />
+    <path d="M796 482 Q810 478 820 486 M792 496 Q806 492 816 500" fill="none" stroke="#7a7162" stroke-width="1" opacity="0.5" />
+  </g>
+
+  <g transform="rotate(-18 220 470)">
+    <rect x="206" y="380" width="16" height="170" rx="3" fill="#2b261f" />
+    <path d="M206 550 L222 550 L214 576 Z" fill="#a67c3d" stroke="#2b261f" stroke-width="1.5" />
+    <path d="M206 380 L222 380 L214 356 Z" fill="#e4d6bb" stroke="#2b261f" stroke-width="1.5" />
+  </g>
+
+  <g>
+    <rect x="850" y="560" width="140" height="10" fill="#2b261f" opacity="0.35" />
+    <path d="M860 540 H980 V556 H860 Z" fill="#f8f1e2" stroke="#2b261f" stroke-width="1.5" />
+    <path d="M880 530 H960 V540 H880 Z" fill="#e4d6bb" stroke="#2b261f" stroke-width="1.2" />
+  </g>
+
+  <g fill="#2b261f" opacity="0.45">
+    <circle cx="190" cy="180" r="2.5" />
+    <circle cx="260" cy="240" r="2" />
+    <circle cx="700" cy="150" r="2" />
+    <circle cx="740" cy="230" r="2.5" />
+    <circle cx="150" cy="330" r="2" />
+  </g>
+
+  <text x="600" y="728" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6" fill="#7a7162">LEMBAR WARTA · ARSIP VISUAL</text>
+</svg>

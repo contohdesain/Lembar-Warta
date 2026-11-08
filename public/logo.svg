@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 150" role="img" aria-labelledby="title">
+  <title id="title">Logo Lembar Warta</title>
+  <rect width="560" height="150" fill="#f7f2e6" />
+  <g transform="translate(24 19)">
+    <circle cx="56" cy="56" r="50" fill="none" stroke="#7c2f27" stroke-width="2.4" />
+    <circle cx="56" cy="56" r="42.5" fill="none" stroke="#7c2f27" stroke-width="1" opacity="0.6" />
+    <path d="M36 78V52C36 41 45 32 56 32C67 32 76 41 76 52V78" fill="none" stroke="#7c2f27" stroke-width="3" stroke-linecap="round" />
+    <path d="M40 65C46 62 51 62.5 56 66.5C61 62.5 66 62 72 65V78C66 75.5 61 76 56 80C51 76 46 75.5 40 78V65Z" fill="none" stroke="#7c2f27" stroke-width="2.6" stroke-linejoin="round" />
+    <path d="M56 67.5V79" stroke="#7c2f27" stroke-width="1.8" />
+    <path d="M56 42L58 48L64 50L58 52L56 58L54 52L48 50L54 48L56 42Z" fill="#7c2f27" />
+  </g>
+  <text x="152" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="bold" letter-spacing="-1" fill="#211c16">Lembar Warta</text>
+  <text x="154" y="103" font-family="Verdana, Arial, sans-serif" font-size="10" letter-spacing="4.2" fill="#7a7162">BULETIN KOMUNITAS · SEJAK 2018</text>
+  <line x1="154" y1="117" x2="522" y2="117" stroke="#d2c5ac" stroke-width="1" />
+</svg>

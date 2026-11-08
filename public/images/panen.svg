@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi panen padi dengan dua petani dan bakul hasil bumi</title>
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#2b261f" stroke-width="0.8" opacity="0.13" />
+    </pattern>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4eddd" />
+      <stop offset="1" stop-color="#e6d9c0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="#e9dfc9" />
+  <rect x="34" y="34" width="1132" height="732" fill="none" stroke="#2b261f" stroke-width="2" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#sky)" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#hatch)" opacity="0.5" />
+
+  <circle cx="910" cy="180" r="66" fill="#c9a35e" opacity="0.4" />
+  <circle cx="910" cy="180" r="66" fill="none" stroke="#7c2f27" stroke-width="1.1" opacity="0.5" />
+
+  <path d="M46 620 Q260 560 500 596 T860 570 T1154 606 V754 H46 Z" fill="#cbb995" />
+  <path d="M46 654 Q300 606 560 634 T900 616 T1154 646 V754 H46 Z" fill="#bda987" />
+
+  <g stroke="#2b261f" stroke-width="1.4" opacity="0.6">
+    <path d="M90 660 V520 M140 656 V512 M190 652 V508 M240 648 V506 M290 646 V504 M340 644 V504 M390 642 V504 M440 642 V506 M490 642 V508 M540 644 V512 M590 646 V516 M640 648 V520 M690 650 V524 M740 652 V528 M790 654 V532 M840 656 V536 M890 658 V540 M940 660 V546 M990 662 V552 M1040 664 V558" />
+  </g>
+
+  <g fill="#a67c3d" opacity="0.75">
+    <path d="M90 520 Q84 496 96 480 Q100 500 90 520 Z M140 512 Q134 488 146 472 Q150 492 140 512 Z M190 508 Q184 484 196 468 Q200 488 190 508 Z M240 506 Q234 482 246 466 Q250 486 240 506 Z M290 504 Q284 480 296 464 Q300 484 290 504 Z M340 504 Q334 480 346 464 Q350 484 340 504 Z M390 504 Q384 480 396 464 Q400 484 390 504 Z M440 506 Q434 482 446 466 Q450 486 440 506 Z M490 508 Q484 484 496 468 Q500 488 490 508 Z M540 512 Q534 488 546 472 Q550 492 540 512 Z M590 516 Q584 492 596 476 Q600 496 590 516 Z M640 520 Q634 496 646 480 Q650 500 640 520 Z M690 524 Q684 500 696 484 Q700 504 690 524 Z M740 528 Q734 504 746 488 Q750 508 740 528 Z M790 532 Q784 508 796 492 Q800 512 790 532 Z M840 536 Q834 512 846 496 Q850 516 840 536 Z M890 540 Q884 516 896 500 Q900 520 890 540 Z M940 546 Q934 522 946 506 Q950 526 940 546 Z M990 552 Q984 528 996 512 Q1000 532 990 552 Z M1040 558 Q1034 534 1046 518 Q1050 538 1040 558 Z" />
+  </g>
+
+  <g>
+    <path d="M330 654 Q322 594 340 548" fill="none" stroke="#2b261f" stroke-width="6" stroke-linecap="round" />
+    <path d="M340 548 Q312 528 292 536" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M340 548 Q366 524 390 532" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M340 548 Q340 514 356 496" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M310 598 Q338 584 366 600" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M300 634 Q334 618 372 636" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M320 634 L308 670 M366 640 L378 674" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M292 536 Q284 546 288 558" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+    <path d="M390 532 Q398 542 394 554" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+    <path d="M340 514 Q324 504 314 512 M340 514 Q356 504 366 512" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <g>
+    <path d="M830 660 Q822 606 840 562" fill="none" stroke="#2b261f" stroke-width="6" stroke-linecap="round" />
+    <path d="M840 562 Q814 544 794 552" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M840 562 Q866 540 890 548" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M840 562 Q840 530 856 514" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M812 608 Q840 594 868 610" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M802 640 Q836 624 874 642" fill="none" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M820 642 L808 676 M866 646 L878 680" stroke="#2b261f" stroke-width="4" stroke-linecap="round" />
+    <path d="M794 552 Q786 562 790 574" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+    <path d="M890 548 Q898 558 894 570" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+    <path d="M840 530 Q824 520 814 528 M840 530 Q856 520 866 528" fill="none" stroke="#2b261f" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <g>
+    <path d="M520 690 L560 626 H700 L740 690 Z" fill="#a67c3d" stroke="#2b261f" stroke-width="2.5" />
+    <path d="M548 626 Q600 596 652 626" fill="#e4d6bb" stroke="#2b261f" stroke-width="2" />
+    <path d="M568 650 H692 M560 672 H700" stroke="#2b261f" stroke-width="1.2" opacity="0.45" />
+    <path d="M600 620 Q590 590 600 570 M630 620 Q620 590 630 570 M660 620 Q650 590 660 570" fill="none" stroke="#2b261f" stroke-width="2" />
+    <path d="M600 570 Q592 556 600 546 Q608 556 600 570 Z M630 570 Q622 556 630 546 Q638 556 630 570 Z M660 570 Q652 556 660 546 Q668 556 660 570 Z" fill="#a67c3d" />
+  </g>
+
+  <g stroke="#2b261f" stroke-width="1.5" fill="none" opacity="0.6">
+    <path d="M250 160 Q260 150 270 160 Q280 150 290 160" />
+    <path d="M480 120 Q490 110 500 120 Q510 110 520 120" />
+    <path d="M640 160 Q650 150 660 160 Q670 150 680 160" />
+  </g>
+
+  <text x="600" y="728" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6" fill="#7a7162">LEMBAR WARTA · ARSIP VISUAL</text>
+</svg>

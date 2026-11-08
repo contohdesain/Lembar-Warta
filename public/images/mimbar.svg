@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Ilustrasi mihrab masjid dengan lentera gantung dan pola geometris</title>
+  <defs>
+    <pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="7" stroke="#2b261f" stroke-width="0.8" opacity="0.13" />
+    </pattern>
+    <pattern id="stars" width="96" height="96" patternUnits="userSpaceOnUse">
+      <path d="M48 12 L56 40 L84 48 L56 56 L48 84 L40 56 L12 48 L40 40 Z" fill="none" stroke="#d9c9a8" stroke-width="1" opacity="0.45" />
+      <circle cx="48" cy="48" r="4" fill="#a67c3d" opacity="0.45" />
+    </pattern>
+    <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#332c23" />
+      <stop offset="1" stop-color="#1b1712" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="800" fill="#e9dfc9" />
+  <rect x="34" y="34" width="1132" height="732" fill="none" stroke="#2b261f" stroke-width="2" />
+  <rect x="46" y="46" width="1108" height="708" fill="#efe6d4" />
+  <rect x="46" y="46" width="1108" height="708" fill="url(#hatch)" opacity="0.5" />
+
+  <path d="M250 700 V330 Q250 150 600 96 Q950 150 950 330 V700 Z" fill="url(#inner)" stroke="#2b261f" stroke-width="3" />
+  <path d="M274 700 V334 Q274 168 600 120 Q926 168 926 334 V700" fill="none" stroke="#d9c9a8" stroke-width="1" opacity="0.5" />
+  <path d="M250 700 V330 Q250 150 600 96 Q950 150 950 330 V700 Z" fill="url(#stars)" opacity="0.7" />
+
+  <path d="M420 700 V520 Q420 396 600 354 Q780 396 780 520 V700 Z" fill="#7c2f27" stroke="#d9c9a8" stroke-width="1.5" />
+  <path d="M448 700 V526 Q448 418 600 380 Q752 418 752 526 V700" fill="none" stroke="#f3ecdc" stroke-width="1" opacity="0.35" />
+  <path d="M600 354 V700" stroke="#f3ecdc" stroke-width="0.8" opacity="0.25" />
+
+  <g fill="none" stroke="#d9c9a8" stroke-width="1.4" opacity="0.65">
+    <path d="M600 420 L622 462 L668 470 L634 502 L644 548 L600 526 L556 548 L566 502 L532 470 L578 462 Z" />
+    <circle cx="600" cy="484" r="10" />
+    <path d="M330 250 Q360 220 390 250 Q360 280 330 250 Z M810 250 Q840 220 870 250 Q840 280 810 250 Z" />
+    <path d="M330 610 Q360 580 390 610 Q360 640 330 610 Z M810 610 Q840 580 870 610 Q840 640 810 610 Z" />
+  </g>
+
+  <g>
+    <path d="M330 150 V260" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M306 260 H354 L344 314 H316 Z" fill="#a67c3d" stroke="#d9c9a8" stroke-width="1.2" />
+    <path d="M322 282 H338 M318 298 H342" stroke="#2b261f" stroke-width="1" opacity="0.5" />
+    <path d="M870 150 V260" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M846 260 H894 L884 314 H856 Z" fill="#a67c3d" stroke="#d9c9a8" stroke-width="1.2" />
+    <path d="M862 282 H878 M858 298 H882" stroke="#2b261f" stroke-width="1" opacity="0.5" />
+    <path d="M600 96 V150" stroke="#d9c9a8" stroke-width="1.5" />
+    <path d="M574 150 H626 L616 204 H584 Z" fill="#a67c3d" stroke="#d9c9a8" stroke-width="1.2" />
+    <path d="M590 172 H610 M586 188 H614" stroke="#2b261f" stroke-width="1" opacity="0.5" />
+  </g>
+
+  <g fill="#d9c9a8" opacity="0.55">
+    <circle cx="180" cy="200" r="2.5" />
+    <circle cx="1020" cy="200" r="2.5" />
+    <circle cx="160" cy="380" r="2" />
+    <circle cx="1040" cy="380" r="2" />
+    <circle cx="190" cy="560" r="2" />
+    <circle cx="1010" cy="560" r="2" />
+  </g>
+
+  <g stroke="#2b261f" stroke-width="1.4" opacity="0.55" fill="none">
+    <path d="M250 700 H950 M274 720 H926" />
+    <path d="M120 700 V754 M1080 700 V754" />
+  </g>
+
+  <text x="600" y="748" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="6" fill="#7a7162">LEMBAR WARTA · ARSIP VISUAL</text>
+</svg>
